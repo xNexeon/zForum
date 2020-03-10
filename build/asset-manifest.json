@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zForum/static/css/main.e3dd66d5.chunk.css",
+    "main.js": "/zForum/static/js/main.53977f3e.chunk.js",
+    "main.js.map": "/zForum/static/js/main.53977f3e.chunk.js.map",
+    "runtime-main.js": "/zForum/static/js/runtime-main.3fea1f93.js",
+    "runtime-main.js.map": "/zForum/static/js/runtime-main.3fea1f93.js.map",
+    "static/css/2.de424728.chunk.css": "/zForum/static/css/2.de424728.chunk.css",
+    "static/js/2.7da77752.chunk.js": "/zForum/static/js/2.7da77752.chunk.js",
+    "static/js/2.7da77752.chunk.js.map": "/zForum/static/js/2.7da77752.chunk.js.map",
+    "index.html": "/zForum/index.html",
+    "precache-manifest.2db209d8e4eaf726d68a7aa845104bd5.js": "/zForum/precache-manifest.2db209d8e4eaf726d68a7aa845104bd5.js",
+    "service-worker.js": "/zForum/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/zForum/static/css/2.de424728.chunk.css.map",
+    "static/css/main.e3dd66d5.chunk.css.map": "/zForum/static/css/main.e3dd66d5.chunk.css.map",
+    "static/js/2.7da77752.chunk.js.LICENSE.txt": "/zForum/static/js/2.7da77752.chunk.js.LICENSE.txt",
+    "static/media/myStyle.css": "/zForum/static/media/bg.3953d873.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fea1f93.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.7da77752.chunk.js",
+    "static/css/main.e3dd66d5.chunk.css",
+    "static/js/main.53977f3e.chunk.js"
+  ]
+}
